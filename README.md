@@ -40,10 +40,7 @@ This project analyzes sales data from a global superstore using **Microsoft Exce
 - `global_superstore_report.xlsx` – Report
 
 
-## 📖 How to Use
-1. Open the **Excel file** to explore data and insights.
-2. Use **Pivot Tables** to filter and analyze specific trends.
-3. Refer to the **Figma design** for UI inspiration.
+
 
 ## 📞 Contact
 For any queries or collaboration, feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/sandesharsud/)**!
