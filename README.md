@@ -31,7 +31,7 @@ This project analyzes sales data from a global superstore using **Microsoft Exce
 #### Page 2 - Sales Analysis
 ![Image](https://github.com/user-attachments/assets/5b6dd783-ffee-4e47-8cc3-ebde18158ce9)
 
-#### Page 2 - Return Analysis
+#### Page 3 - Return Analysis
 ![Image](https://github.com/user-attachments/assets/47dde8ef-a942-425d-bf7f-942265581a4a)
 
 
