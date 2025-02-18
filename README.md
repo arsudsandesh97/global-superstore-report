@@ -44,7 +44,7 @@ This project analyzes sales data from a global superstore using **Microsoft Exce
 
 ## 📞 Contact
 For any queries or collaboration, feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/sandesharsud/)**!
-or **[email me](mailto:contact.arsudsandesh@gmail.com)**!
+or **[Message me](https://arsudsandesh97.github.io/#contact)**!
 
 ---
 🔗 **Star** this repository if you found it useful! ⭐
